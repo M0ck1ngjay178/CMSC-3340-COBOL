@@ -1,5 +1,4 @@
-# COBOL_Assignments
-
+# CMSC-3340-COBOL
 ## 📚 Overview
 This repository contains COBOL assignments completed as part of the CMSC-3340 COBOL course at PennWest-California University. The coursework was based on the textbook **"COBOL from Micro to Mainframe."**
 
